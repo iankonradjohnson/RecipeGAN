@@ -26,4 +26,7 @@ This project is structured in such a way that there are a wide variety of additi
 * Linking with a food molecule database (such as [BittereDB](http://bitterdb.agri.huji.ac.il/dbbitter.php), find combinations of flavor molecules and how they influence user ratings and popularity for a recipe.
 * Use a different approach other than TGAN to find ingredient combinations and create new recipes using this method.
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
